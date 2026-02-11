@@ -1,4 +1,4 @@
-# Dilip Gurung - Full Stack Developer Portfolio
+# Dilip Gurung -  Learning to become Full Stack Developer
 
 A professional, modern portfolio website showcasing full stack development skills, projects, and experience.
 
